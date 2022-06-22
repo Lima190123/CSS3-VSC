@@ -1,0 +1,13 @@
+* { /*Configurações globais das CSS*/
+height: 100%;
+
+}
+
+body { 
+
+    background-image: linear-gradient(to right,#25347A,#3C55C7)
+}
+h1 { 
+    text-align: center;
+    
+}

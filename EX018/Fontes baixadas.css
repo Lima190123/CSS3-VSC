@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Love';
+    src: url("love story ttf.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+    /*
+    Tipos de format ()
+    - open type (otf)
+    - truetype (ttf)
+    -embedded-opentype
+    -tryetype-aat (Apple Advanced Typography)
+    - svg
+
+    */
+}
+
+
+body { 
+
+    font-family: 'Love', Helvetica, sans-serif;
+    
+}
+h1 { 
+
+    font-family: 'Love', Helvetica, sans-serif;
+    font-size: 3em;
+    font-weight: normal;
+}

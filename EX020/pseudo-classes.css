@@ -1,0 +1,13 @@
+div {
+    display: inline-block;
+    background-color: lightgrey;
+    border: 1x solid black; /* shorthand: largura,tipo,cor */
+    text-align: center;
+    height: 200px;
+    width: 200px; 
+
+}
+div:hover /* É uma configuração de estado (passando o mouse)*/   {
+    background-color: yellow;
+
+}

@@ -1,0 +1,48 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: dimgray;
+}
+header {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+
+}
+h1 {
+    box-shadow: inset 1px 1px 1px 5px black;
+}
+nav {
+    background-color: aqua;
+    padding: 3px;
+
+    /*box-shadow: 1px 1px 1px black; /*shorthand deslocamento horizontal,deslocamento vertical,espalhamento e sombra*/
+}
+nav > a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+nav > a:hover {
+    text-decoration: underline;
+}
+main {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+article {
+    background-color: lightgray;
+}
+article > aside {
+    background-color: blue;
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 4px;
+    margin: 0px; 
+}
+footer >p {
+    margin: 0px; 
+}

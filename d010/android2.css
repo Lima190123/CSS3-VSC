@@ -1,0 +1,12 @@
+article {
+    background-image: linear-gradient(to right,#037014,#50F268 ); 
+    width: 1560px
+}
+.maintitle {
+    font-size: 30px;
+    color: white;
+}
+.mainp {
+    font-size: 20px;
+    color: white;
+}

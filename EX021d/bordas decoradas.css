@@ -1,0 +1,11 @@
+h1 {
+    border: 13px solid transparent;
+    padding: 10px;
+    /*
+    border-image-source: url('borda.png');
+    border-image-slice: 33;
+    border-image-repeat: stretch;
+    */
+
+    border-image/*short hand* source,slice,repeat */: url('borda.png') 33 stretch;
+}
