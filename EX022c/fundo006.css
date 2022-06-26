@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    background-color: black;
+    background-image: url('imagens/wallpaper002.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover; /* ocupa a tela inteira= viewport */
+
+    /* background-size: contain (mostra 100% da imagem  */
+    /* background-size: auto (deixa o navegador decidir)  */
+    
+
+
+}
+main {
+    background-color: white;
+    width: 400px;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid darkblue;
+    border-radius: 15px;
+}
