@@ -5,6 +5,7 @@ body {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover; /* ocupa a tela inteira= viewport */
+    background-attachment: scroll;
 
     /* background-size: contain (mostra 100% da imagem  */
     /* background-size: auto (deixa o navegador decidir)  */
